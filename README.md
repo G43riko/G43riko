@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[twitter]: https://twitter.com/g43riko
 [instagram]: https://www.instagram.com/g43riko/
 [linkedin]: https://www.linkedin.com/in/gabriel-csollei
