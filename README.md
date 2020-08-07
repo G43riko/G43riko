@@ -7,7 +7,6 @@
 [<img align="left" alt="G43riko | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<br />
 
 ---
 
@@ -31,13 +30,11 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=G43riko&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<br />
 <br />
 
 ---
