@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 
 [twitter]: https://twitter.com/g43riko
 [instagram]: https://www.instagram.com/g43riko/
-[linkedin]: https://www.linkedin.com/in/gabriel-csollei
+[linkedin]: https://www.linkedin.com/in/gabriel-csollei-b00761140/
