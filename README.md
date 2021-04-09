@@ -67,6 +67,7 @@
 
 <br />
 
+
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=G43riko&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -91,3 +92,12 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/g43riko
 [instagram]: https://www.instagram.com/g43riko/
 [linkedin]: https://www.linkedin.com/in/gabriel-csollei-b00761140/
+
+---
+<br />
+
+## Projects
+ - [GPaint](https://gpaint.web.app/#/)
+ - ~~[GWorld](https://gworld.web.app/#/)~~
+ - [Github bages](https://g43riko.github.io/)
+ - [More](https://g43riko.github.io/homepage/#/projects)
