@@ -34,7 +34,7 @@
 <img align="left" alt="Chrome" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/chrome/chrome.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
 <img align="left" alt="Elastic Search" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png" />
-<img align="left" alt="es6" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/es6/es6.png" />
+<img align="left" alt="Ecmascript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ecmascript/ecmascript.png" />
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />
 <img align="left" alt="Gulp" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/gulp/gulp.png" />
@@ -66,9 +66,13 @@
 <img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/webpack/webpack.png" />
 
 <br />
+<br />
+<br />
+<br />
+<hr />
 
+### Stats:
 
----
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=G43riko&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -97,7 +101,8 @@ Here are some ideas to get you started:
 <br />
 
 ## Projects
- - [GPaint](https://gpaint.web.app/#/)
- - ~~[GWorld](https://gworld.web.app/#/)~~
- - [Github bages](https://g43riko.github.io/)
+ - [GPaint](https://gpaint.web.app)
+ - [GEngine](https://gengine.web.app)
+ - ~~[GWorld](https://gworld.web.app)~~
+ - [Homepage](https://g43riko.github.io)
  - [More](https://g43riko.github.io/homepage/#/projects)
