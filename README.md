@@ -10,6 +10,16 @@
 
 ---
 
+<div class="badges">
+ <a href="https://sk.linkedin.com/in/gabriel-csollei-b00761140">
+  <img align="left" alt="G43riko | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+ </a>
+</div>
+
+<br />
+
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
@@ -25,7 +35,6 @@
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
@@ -49,7 +58,7 @@
 <img align="left" alt="MarkDown" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/markdown/markdown.png" />
 <img align="left" alt="Material design" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/material-design/material-design.png" />
 <img align="left" alt="MongoDb" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
-<img align="left" alt="Mingoose" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png" />
+<img align="left" alt="Mongoose" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png" />
 <img align="left" alt="NestJS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png" />
 <img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png" />
 <img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" />
@@ -65,6 +74,9 @@
 <img align="left" alt="Visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Web components" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/web-components/web-components.png" />
 <img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/webpack/webpack.png" />
+<img align="left" alt="Blender" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/blender/blender-original.svg" />
+
+
 
 <br />
 <br />
