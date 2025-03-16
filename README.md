@@ -11,10 +11,10 @@
 ---
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <div class="badges">
- <a href="https://sk.linkedin.com/in/gabriel-csollei-b00761140">
+ <a href="https://sk.linkedin.com/in/gabriel-csollei-b00761140" target="_blank">
   <img align="left" alt="G43riko | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
  </a>
- <a href="https://www.hackerrank.com/profile/gcsollei">
+ <a href="https://www.hackerrank.com/profile/gcsollei" target="_blank">
    <img align="left" alt="G43riko | HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
  </a>
 </div>
