@@ -8,6 +8,7 @@
 
 <br />
 
+
 ---
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <div class="badges">
@@ -17,6 +18,11 @@
  <a href="https://www.hackerrank.com/profile/gcsollei" target="_blank">
    <img align="left" alt="G43riko | HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
  </a>
+ <!--
+ <a class="hidden" href="https://www.instagram.com/g43riko/" target="_blank">
+   <img align="left" alt="G43riko | HackerRank" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+ </a>
+ -->
 </div>
 <br />
 
