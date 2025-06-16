@@ -7,7 +7,8 @@
 [<img align="left" alt="G43riko | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+<!-- TODO: show trophies-->
+<!-- https://github-profile-trophy.vercel.app/?username=G43RIKO&theme=nord -->
 
 ---
 <!-- https://github.com/Ileriayo/markdown-badges -->
